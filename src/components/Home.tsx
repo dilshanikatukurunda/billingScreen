@@ -3,10 +3,14 @@ import './Home.css'
 
 const Home = () => {
   return (
-    <div>
-      
+    <div className="card">
+      <div className="circle"></div>
+      <div className="circle"></div>
+      <div className="circle"></div>
+      <div className="circle"></div>
+      <div className="circle"></div>
     </div>
-  )
+  );
 }
 
 export default Home
